@@ -1,0 +1,12 @@
+.jumbotron h1 {
+	font-size: 48px;
+	color:black;
+}
+.jumbotron h5 {
+	font-size: 20px;
+	color: black;
+}
+.img-thumbnail{
+	width: 150px;
+	height: 150px;
+}
